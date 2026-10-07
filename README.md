@@ -15,12 +15,12 @@
 **Integrantes (nome + RM):**
 
 | Nome | RM |
-
+|---|---|
 | Enzo Cerneviva | 563480 |
 | Matheus Lara | 564049 |
 | Victor Hugo | 564633 |
-
-
+| | |
+| | |
 
 ---
 
@@ -74,6 +74,30 @@ segurança × faturamento × dívida). "Porque é mais seguro" não é justifica
 
 *(as decisões entram aqui, na ordem em que a madrugada as trouxer; placar inicial:
 🔥 7 · 💰 0 · 🧹 2)*
+
+## Rodada 1
+
+**Tipo:** rodada · **Voto:** D
+
+**Justificativa:**
+
+Voltar ao código da terça (rollback), pois o problema só apareceu na quinta-feira, o que significa que antes estava funcionando. Com o tempo curto, não garantiríamos conseguir corrigir o problema.
+
+**Placar do grupo após esta decisão:** 🔥 7 · 💰 R$ 15 mil · 🧹 3
+
+---
+
+## Rodada 1 Relâmpago
+
+**Tipo:** relâmpago · **Voto:** B
+
+**Justificativa:**
+
+Escolhemos o findByTitular por ter a query já construída.
+
+**Placar do grupo após esta decisão:** 🔥 7 · 💰 R$ 15 mil · 🧹 2
+
+---
 
 ## 🔎 O caminho do MEU grupo (preencher na 3ª aula, quando o mapa for revelado)
 
