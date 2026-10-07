@@ -99,6 +99,18 @@ Escolhemos o findByTitular por ter a query já construída.
 
 ---
 
+## Rodada 3
+
+**Tipo:** rodada · **Voto:** D
+
+**Justificativa:**
+
+De acordo com o contrato, o número da conta deve ser sequencial e gerado pelo sistema.
+
+**Placar do grupo após esta decisão:** 🔥 7 · 💰 R$ 25 mil · 🧹 2
+
+---
+
 ## 🔎 O caminho do MEU grupo (preencher na 3ª aula, quando o mapa for revelado)
 
 Uma linha por decisão registrada acima (usem os títulos ditados em aula):
